@@ -1,4 +1,4 @@
-%% Creator: Inkscape inkscape 0.48.1, www.inkscape.org
+%% Creator: Inkscape 0.48.1, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'hydrometer.pdf' (pdf, eps, ps)
 %%
@@ -36,19 +36,16 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{903.38837891pt}
+    \setlength{\unitlength}{411.63449652pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,1.11337913)%
+  \begin{picture}(1,1.08978989)%
     \put(0,0){\includegraphics[width=\unitlength]{hydrometer.pdf}}%
-    \put(0.77060323,0.06425982){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Plastic Bottle}}}%
-    \put(0.73068927,0.38819368){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Plastic Bag}}}%
-    \put(0.72853159,0.47234442){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Rubber Band}}}%
-    \put(0.72814497,0.58045466){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Sand}}}%
-    \put(0.10356841,0.59024527){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Water}}}%
-    \put(0.11103952,0.98649098){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Straw}}}%
+    \put(0.42410305,0.84441407){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Density Scale}}}%
+    \put(0.4509864,0.52181399){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.62452059\unitlength}\raggedright Plastic Bag with Dry Sand\end{minipage}}}%
+    \put(0.44064664,0.24470878){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Liquid}}}%
   \end{picture}%
 \endgroup
