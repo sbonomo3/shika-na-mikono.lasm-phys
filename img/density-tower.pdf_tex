@@ -1,4 +1,4 @@
-%% Creator: Inkscape inkscape 0.48.1, www.inkscape.org
+%% Creator: Inkscape 0.48.1, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'density-tower.pdf' (pdf, eps, ps)
 %%
@@ -36,21 +36,21 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{870.13359375pt}
+    \setlength{\unitlength}{421.163839pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,0.93049976)%
+  \begin{picture}(1,1.14003331)%
     \put(0,0){\includegraphics[width=\unitlength]{density-tower.pdf}}%
-    \put(0.13735319,0.88216965){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Syringe}}}%
-    \put(0.66932487,0.82987412){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Kerosene}}}%
-    \put(0.70167768,0.61895972){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Cooking Oil}}}%
-    \put(0.68155741,0.41150987){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Glycerine}}}%
-    \put(0.16440251,0.72528308){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Spirit}}}%
-    \put(0.16263476,0.50701346){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Water}}}%
-    \put(0.17522229,0.28527931){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Honey}}}%
-    \put(0.71635249,0.22248352){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.29934682\unitlength}\raggedright Plunger Rubber Stop\end{minipage}}}%
+    \put(0.62136532,1.03311666){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Syringe}}}%
+    \put(0.62332626,0.85859341){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Kerosene}}}%
+    \put(0.61597394,0.72757938){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Spirit}}}%
+    \put(0.61242073,0.57413496){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Cooking Oil}}}%
+    \put(0.60886751,0.41517637){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Water}}}%
+    \put(0.59231994,0.24163615){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Glycerine}}}%
+    \put(0.54550318,0.0820631){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Honey}}}%
+    \put(0.345715,0.00092749){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Sealed}}}%
   \end{picture}%
 \endgroup

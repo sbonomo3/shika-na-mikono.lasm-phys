@@ -1,6 +1,6 @@
 %% Creator: Inkscape 0.48.1, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
-%% Accompanies image file 'cartesian-diver.pdf' (pdf, eps, ps)
+%% Accompanies image file 'energy-conservation.pdf' (pdf, eps, ps)
 %%
 %% To include the image in your LaTeX document, write
 %%   \input{<filename>.pdf_tex}
@@ -36,16 +36,15 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{503.34990234pt}
+    \setlength{\unitlength}{583.8811644pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,1.37140381)%
-    \put(0,0){\includegraphics[width=\unitlength]{cartesian-diver.pdf}}%
-    \put(0.5985221,0.76031991){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Syringe}}}%
-    \put(0.62758883,0.58028287){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Small Stones}}}%
-    \put(0.60120922,0.24318045){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Water}}}%
+  \begin{picture}(1,0.89600012)%
+    \put(0,0){\includegraphics[width=\unitlength]{energy-conservation.pdf}}%
+    \put(0.79151767,0.43575302){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Pen}}}%
+    \put(0.68988466,0.05018404){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{String}}}%
   \end{picture}%
 \endgroup
