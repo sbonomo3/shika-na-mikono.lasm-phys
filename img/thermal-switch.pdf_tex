@@ -43,7 +43,7 @@
   \global\let\svgwidth\undefined
   \makeatother
   \begin{picture}(1,0.91165956)%
-    \put(0,0){\includegraphics[width=\unitlength]{thermal-expansion.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{thermal-switch.pdf}}%
     \put(0.42223811,0.86707507){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Nails}}}%
     \put(0.45538238,0.72826973){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Pin}}}%
     \put(0.21536473,0.74295101){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Gap}}}%
