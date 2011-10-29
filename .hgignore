@@ -2,7 +2,7 @@ syntax:glob
 
 *.out
 *.synctex.gz
-*.pdf
+lasm-phys.pdf
 *.log
 *.aux
 *.toc
